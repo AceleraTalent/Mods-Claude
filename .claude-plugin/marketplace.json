@@ -1,0 +1,17 @@
+{
+  "name": "aceleratalent-mods",
+  "owner": { "name": "AceleraTalent" },
+  "metadata": { "description": "Mods de Claude Code de AceleraTalent" },
+  "plugins": [
+    {
+      "name": "code-tutor",
+      "source": "./plugins/code-tutor",
+      "description": "Tutor de aprendizaje: explica el porqué de cada cambio de código en un panel propio y responde preguntas con /tutor"
+    },
+    {
+      "name": "productivity-hud",
+      "source": "./plugins/productivity-hud",
+      "description": "HUD de productividad: contexto, costo, burn-rate y presupuesto de la sesión, sobre el prompt y en un panel."
+    }
+  ]
+}

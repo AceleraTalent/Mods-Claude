@@ -1,0 +1,7 @@
+{
+  "name": "code-tutor",
+  "version": "0.1.0",
+  "author": { "name": "AceleraTalent" },
+  "description": "Tutor de aprendizaje: explica el porqué de cada cambio de código en un panel propio y responde preguntas con /tutor",
+  "types": "./types/index.d.ts"
+}
