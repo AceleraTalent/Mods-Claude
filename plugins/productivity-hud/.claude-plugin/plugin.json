@@ -1,6 +1,7 @@
 {
   "name": "productivity-hud",
   "version": "0.1.0",
+  "author": { "name": "AceleraTalent" },
   "description": "HUD de productividad: contexto, costo, burn-rate y presupuesto de la sesión, sobre el prompt y en un panel.",
   "types": "./types/index.d.ts"
 }
